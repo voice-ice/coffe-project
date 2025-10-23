@@ -51,9 +51,12 @@ body {
     font-family: 'Ubuntu';
     font-size: 48px;
     font-weight: 700;
-    line-height: 57,6px;
+    line-height: 58px;
     padding-left: 55px;
     padding-top: 48px;
+    padding-bottom: 20px;
+    margin: 0;
+    
 }
 
 
