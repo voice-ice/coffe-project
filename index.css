@@ -1,6 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+
 body {
     box-sizing: border-box;
     width: 1600px;
+    font-family: 'Ubuntu', sans-serif;
+
 }
 
 .cup-img {
@@ -22,6 +27,7 @@ body {
 }
 
 .span-title {
+    font-family: 'Ubuntu';
     padding-left: 20px;
     margin: 0 auto;
     color: white;
@@ -42,6 +48,7 @@ body {
 }
 
 .title-text {
+    font-family: 'Ubuntu';
     font-size: 48px;
     font-weight: 700;
     line-height: 57,6px;
