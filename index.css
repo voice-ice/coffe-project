@@ -37,28 +37,6 @@ body {
     font-style: bold;
 }
 
-.title-container {
-    position: relative;
-    box-sizing: border-box;
-    width: 744px;
-    height: 184px;
-    background-color: white;
-    z-index: 3;
-    left: 500px;
-    margin-top: 52px;
-}
-
-.title-text {
-    font-family: 'Ubuntu';
-    font-size: 48px;
-    font-weight: 700;
-    line-height: 58px;
-    padding-left: 55px;
-    padding-top: 48px;
-    padding-bottom: 20px;
-    margin: 0;
-}
-
 
 
 
