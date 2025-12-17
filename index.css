@@ -46,19 +46,37 @@ body {
     z-index: 3;
     left: 500px;
     margin-top: 52px;
+
 }
 
 .title-text {
     font-family: 'Ubuntu';
     font-size: 48px;
     font-weight: 700;
-    line-height: 58px;
-    padding-left: 55px;
-    padding-top: 48px;
-    padding-bottom: 20px;
+    line-height: 58px;   
     margin: 0;
 }
 
+.title-star_quantity {
+    font-family: 'Ubuntu';
+    font-size: 14px;
+    font-weight: 400;
+    margin-left: 16px;
+}
+
+
+
+.title-container_inside { 
+    padding-left: 55px;
+}
+
+.title-star_container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: start;
+    
+}
 
 
 
