@@ -121,3 +121,10 @@ body {
     color: #FFA41B;
 }
 
+.text {
+    margin: 0;
+    padding-top: 31px;
+    font-size: 400;
+    font-style: italic;
+
+}
