@@ -81,12 +81,14 @@ body {
 .main {
     margin-left: 757px;
     padding-top: 20px;
+    width: 612px;
 }
 
 .section-advantages { 
     display: flex;
+    
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .inside-container {
@@ -126,6 +128,7 @@ body {
     padding-top: 31px;
     font-size: 400;
     font-style: italic;
+    line-height: 32px;
 
 
 }
