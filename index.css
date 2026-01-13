@@ -129,36 +129,3 @@ body {
 
 }
 
-.ingridients-title {
-    text-transform: uppercase;
-    font-size: 20px;
-    font-weight: 700;
-    margin: 0;
-    padding-top: 25px;
-    padding-bottom: 20px;
-}
-
-
-.ingridients-list {
-    list-style: none;
-    margin: 0;
-    padding-left: 0;
-}
-
-.ingridients-item {
-    display: flex;
-    flex-direction: row;
-    align-content: center;
-}
-
-.item-icon {
-    width: 20px;
-    height: 20px;
-}
-
-.ingridients-text {
-    padding-left: 15px;
-    font-size: 18px;
-    padding-bottom: 14px;
-    margin: 0;
-}
