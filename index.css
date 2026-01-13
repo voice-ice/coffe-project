@@ -78,5 +78,46 @@ body {
     
 }
 
+.main {
+    margin-left: 757px;
+    padding-top: 20px;
+}
 
+.section-advantages { 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.inside-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+    
+}
+
+.text-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.section-icon {
+    width: 32px;
+    height: 32px;
+    padding-right: 8px;
+} 
+
+.text-first {
+    margin: 0;
+    font-size: 12px;
+    text-transform: uppercase;
+
+}
+
+.text-second {
+    margin: 0;
+    font-size: 14px;
+    color: #FFA41B;
+}
 
